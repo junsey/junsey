@@ -43,7 +43,7 @@ Our work spans:
 
 ### **Frontend**
 - Strong expertise in **Vanilla JS**, **React**, **Node.js**
-- Broad experience with **PHP**, **Twig**
+- Broad experience with **PHP**, **Twig**, **JQuery**
 - Past work with **Java** and **.NET**
 
 ### **Engineering & Product Leadership**
