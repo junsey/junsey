@@ -1,11 +1,11 @@
-# Hi, I'm Rodrigo Salvay 👋  
+# Hi, I'm Rodrigo Salvay
 **Product Manager · Game Designer · Narrative Writer · Frontend Specialist**
 
 I’m an Argentine developer-turned–narrative designer with a strong technical foundation, a passion for world-building, and more than a decade of experience leading engineering and creative teams.
 
 ---
 
-## 🚀 Professional Journey
+## Professional Journey
 
 ### **2011–2014 — Frontend Developer at Esolutions**
 I began my career after studying Software Programming at **UTN Córdoba**, joining Esolutions as a frontend developer.  
@@ -27,7 +27,7 @@ My role bridges technical strategy, agile processes, and cross-team orchestratio
 
 ---
 
-## 🧩 Independent Studio — The Company Studio (2015–Present)
+## Independent Studio — The Company Studio (2015–Present)
 Since 2015 I’ve run an independent TTRPG studio, originally **Rosa de los Vientos Studio** and rebranded in 2023 as **The Company Studio** with the release of _Your World Has Been Deleted_.  
 I oversee writing, system design, worldbuilding, production, and general operations.
 
@@ -39,7 +39,7 @@ Our work spans:
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Frontend**
 - Strong expertise in **Vanilla JS**, **React**, **Node.js**
@@ -55,11 +55,11 @@ Our work spans:
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 I believe that nothing is impossible with a committed team.  
 Logic, creativity, and engineering can overcome any challenge given enough time and dedication.
 
-A team is only as strong as its least supported member — no one should be left behind.  
+A team is only as strong as its least supported member, no one should be left behind.  
 We grow together, learn together, and evolve together.
 
 ---
